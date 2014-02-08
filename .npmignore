@@ -1,0 +1,14 @@
+# ide
+.idea
+
+# git
+.git
+.gitignore
+
+# npm
+node_modules
+npm-debug.log
+.npmignore
+
+# travis
+.travis.yml
